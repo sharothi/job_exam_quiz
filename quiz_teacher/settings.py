@@ -88,19 +88,6 @@ DATABASES = {
 
 
 
-# postgres://zlpddtiqstmvwn:73a4e6b027c2695a372088e8e1eb218de099fb46709a1f1c66dcf7df5a2f663b@ec2-3-212-143-188.compute-1.amazonaws.com:5432/d2iaail1oir883
-# DATABASES = {
-#     'default': {
-#         'ENGINE': 'django.db.backends.postgresql',
-#         'NAME': 'd2iaail1oir883',
-#         'HOST': 'ec2-3-212-143-188.compute-1.amazonaws.com',
-#         'PORT': 5432,
-#         'USER': 'zlpddtiqstmvwn',
-#         'PASSWORD': '73a4e6b027c2695a372088e8e1eb218de099fb46709a1f1c66dcf7df5a2f663b',
-
-#     }
-# }
-
 
 
 
